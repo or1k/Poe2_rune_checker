@@ -11,7 +11,8 @@
 
 ## ⬇️ Скачать (готовая сборка)
 
-Бери архив из [**release/**](release) (`PoE2RuneChecker-v0.1.0-win64.rar`) —
+Качай RAR со страницы [**Releases**](https://github.com/or1k/Poe2_rune_checker/releases/latest)
+([прямая ссылка](https://github.com/or1k/Poe2_rune_checker/releases/download/v0.1.0/PoE2RuneChecker-v0.1.0-win64.rar)) —
 распакуй и запусти `PoE2RuneChecker.exe`. **Java ставить не нужно**, всё вшито.
 
 ## 🎮 Как пользоваться
