@@ -1,0 +1,24 @@
+# build output
+target/
+stage/
+dist/
+
+# price cache (создаётся при запуске)
+cache/
+
+# JavaFX jmods (большие; скачиваются отдельно для сборки exe — см. README)
+tools/javafx-jmods-23.0.1/
+tools/*.zip
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.class
+
+# keep: release/*.rar (пребилд), app.ico, tessdata/
+dependency-reduced-pom.xml
+
+# release-архивы — в GitHub Releases, не в репо
+release/*.rar
+release/payload.json
