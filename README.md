@@ -7,6 +7,9 @@ over the game — so you instantly see which rune is worth crafting.
 
 **[English](#english) · [Русский](#русский)**
 
+> ⚠️ **Works with the English game client only (for now).**
+> Работает только с **английским клиентом** игры (пока что).
+
 ![PoE2 Rune Checker in game](docs/Screenshot_2.png)
 
 ---
@@ -27,7 +30,7 @@ extract and run `PoE2RuneChecker.exe`. **No Java needed**, everything is bundled
 4. Close the rune window → prices disappear. The window's ✕ minimizes it to tray.
 
 > Works in **Windowed Fullscreen / Borderless** (and usually in plain Fullscreen on
-> Win10/11 thanks to Fullscreen Optimizations). English game client only.
+> Win10/11 thanks to Fullscreen Optimizations). **English game client only (for now).**
 
 ### ✨ Features
 
@@ -92,7 +95,7 @@ PoE Trade). Use at your own risk.
 4. Закрыл окно рун — цены пропадают. Крестик окна сворачивает его в трей.
 
 > Работает в режиме **Windowed Fullscreen / Borderless** (а на Win10/11 обычно и в
-> «полноэкранном» благодаря Fullscreen Optimizations). Только английский клиент игры.
+> «полноэкранном» благодаря Fullscreen Optimizations). **Только английский клиент игры (пока что).**
 
 ### ✨ Возможности
 
